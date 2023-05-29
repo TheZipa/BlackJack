@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3f5766e53484210ba0a6eafc410d4c0, type: 3}
+  m_Name: Card Config
+  m_EditorClassIdentifier: 
+  CardData:
+  - CardValue: 10
+    CardSprite: {fileID: -8430985578977025789, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 10
+    CardSprite: {fileID: 440666203521501684, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 10
+    CardSprite: {fileID: 5044951399471242409, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 10
+    CardSprite: {fileID: 6848675984678484133, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 7
+    CardSprite: {fileID: -3279717568988907162, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 7
+    CardSprite: {fileID: 3820431700096020060, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 7
+    CardSprite: {fileID: -7377404993604502704, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 7
+    CardSprite: {fileID: -8423231260006467354, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 10
+    CardSprite: {fileID: 5562543194440641541, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 10
+    CardSprite: {fileID: -8046433129841882764, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 10
+    CardSprite: {fileID: 64312406797878545, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 10
+    CardSprite: {fileID: -8625531999396554999, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 6
+    CardSprite: {fileID: -4426921316849071391, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 6
+    CardSprite: {fileID: -239842195982105282, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 6
+    CardSprite: {fileID: 3972633452249838582, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 6
+    CardSprite: {fileID: -4068524317855994348, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 10
+    CardSprite: {fileID: 8839029207027505686, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 10
+    CardSprite: {fileID: -6129741451279636859, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 10
+    CardSprite: {fileID: -7204215045643030603, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 10
+    CardSprite: {fileID: 887201867057378570, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 5
+    CardSprite: {fileID: 2165559899476579344, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 5
+    CardSprite: {fileID: -743904120729679251, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 5
+    CardSprite: {fileID: -4997229144098705816, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 5
+    CardSprite: {fileID: -821713265971618229, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 10
+    CardSprite: {fileID: -1166218564504954205, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 10
+    CardSprite: {fileID: 1260760650427614183, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 10
+    CardSprite: {fileID: -6014675257773001222, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 10
+    CardSprite: {fileID: -3729435997440147159, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 4
+    CardSprite: {fileID: 4565542091946821785, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 4
+    CardSprite: {fileID: 7590052713354306432, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 4
+    CardSprite: {fileID: -3479354005482737071, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 4
+    CardSprite: {fileID: -1337154408328095279, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 9
+    CardSprite: {fileID: 2286492639357985369, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 9
+    CardSprite: {fileID: -4754644757182577252, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 9
+    CardSprite: {fileID: 6021792763127608392, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 9
+    CardSprite: {fileID: -1235448358019421462, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 3
+    CardSprite: {fileID: 7085207276473887796, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 3
+    CardSprite: {fileID: -5042501638607379334, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 3
+    CardSprite: {fileID: -2452687670908134969, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 3
+    CardSprite: {fileID: 6262132748905008477, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 8
+    CardSprite: {fileID: 6501206992342110419, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 8
+    CardSprite: {fileID: -3151665931333394832, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 8
+    CardSprite: {fileID: 2618645340144209268, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 8
+    CardSprite: {fileID: -2093817314310644473, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 2
+    CardSprite: {fileID: 1284101891144678681, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 2
+    CardSprite: {fileID: 8613609572342176584, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 2
+    CardSprite: {fileID: 8422227180347621209, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 2
+    CardSprite: {fileID: -4355650445748271674, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 1
+    CardSprite: {fileID: 29468424247034797, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 1
+    CardSprite: {fileID: 4978832131240576441, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 1
+    CardSprite: {fileID: 2894462768204808924, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  - CardValue: 1
+    CardSprite: {fileID: 5661242910440456970, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  Shirt: {fileID: 269036994065117796, guid: d713b2c398f864f16829358f183b1dc1, type: 3}
+  SplitCardScale: {x: 0.275, y: 0.275}
+  SplitCardAlpha: 0.35

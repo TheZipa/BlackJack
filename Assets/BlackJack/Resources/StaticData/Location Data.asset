@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7000ba344022469bb85318f3d0beb007, type: 3}
+  m_Name: Location Data
+  m_EditorClassIdentifier: 
+  CardOffset: 0.6
+  DealerLocation:
+    Position: {x: -1.45, y: 3.7}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+  PlayerLocation:
+    Position: {x: -1.45, y: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+  CardDeckLocation:
+    Position: {x: 7, y: 8}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+  SplitLocation:
+    Position: {x: 1, y: 0.65}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
